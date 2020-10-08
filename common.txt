@@ -109,7 +109,6 @@
 "Hollow Warrior Helm","head_hollow-warrior-helm.png",2
 "Iron Helm","head_iron-helm.png",2
 "Knight Helm","head_knight-helm.png",2
-"Mage Smith Hat","head_mage-smith-hat.png",2
 "Maiden Hood","head_maiden-hood.png",2
 "Mask of the Sealer","head_mask-of-the-sealer.png",2
 "Mask of Velka","head_mask-of-velka.png",2

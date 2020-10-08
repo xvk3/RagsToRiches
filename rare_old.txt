@@ -1,0 +1,76 @@
+# rare.txt
+"Balder Side Sword","straightswords_balder-side-sword.png",1
+"Shotel","curved-swords_shotel.png",1
+"Gold Tracer","curved-swords_gold-tracer.png",1
+"Chaos Blade","katanas_chaos-blade.png",1
+"Murakumo","curved-greatswords_murakumo.png",1
+"Rapier","thrusting-swords_rapier.png",1
+"Estoc","thrusting-swords_estoc.png",1
+"Channeler's Trident","spears_channeler-s-trident.png",1
+"Silver Knight Spear","spears_silver-knight-spear.png",1
+"Gough's Greatbow","greatbows_gough-s-greatbow.png",1
+"Claymore","greatswords_claymore.png",2
+"Moonlight Greatsword","greatswords_moonlight-greatsword.png",2
+"Stone Greatsword","greatswords_stone-greatsword.png",2
+"Scimitar","curved-swords_scimitar.png",2
+"Falchion","curved-swords_falchion.png",2
+"Uchigatana","katanas_uchigatana.png",2
+"Iaito","katanas_iaito.png",2
+"Black Knight Greataxe","greataxes_black-knight-greataxe.png",2
+"Great Club","great-hammers_great-club.png",2
+"Large Club","great-hammers_large-club.png",2
+"Moonlight Butterfly Horn","spears_moonlight-butterfly-horn.png",2
+"Halberd","halberds_halberd.png",2
+"Gargoyle's Halberd","halberds_gargoyle-s-halberd.png",2
+"Avelyn","crossbows_avelyn.png",2
+"Dark Silver Tracer","daggers_dark-silver-tracer.png",3
+"Longsword","straightswords_longsword.png",3
+"Flamberge","greatswords_flamberge.png",3
+"Great Lord Greatsword","greatswords_great-lord-greatsword.png",3
+"Abyss Greatsword","greatswords_abyss-greatsword.png",3
+"Golem Axe","axes_golem-axe.png",3
+"Dragon King Greataxe","greataxes_dragon-king-greataxe.png",3
+"Demon's Spear","spears_demon-s-spear.png",3
+"Composite Bow","bows_composite-bow.png",3
+"Bandit's Knife","daggers_bandit-s-knife.png",4
+"Zweihander","ultra-greatswords_zweihander.png",4
+"Demon's greataxe","greataxes_demon-s-greataxe.png",4
+"Dark Hand","fist_dark-hand.png",4
+"Blacksmith Giant Hammer","hammers_blacksmith-giant-hammer.png",5
+"Lifehunt Scythe","halberds_lifehunt-scythe.png",5
+"Guardian Tail","whips_guardian-tail.png",5
+"Crown of Dusk","head_crown-of-dusk.png",1
+"Crown of the Dark Sun","head_crown-of-the-dark-sun.png",1
+"Fang Boar Helm","head_fang-boar-helm.png",1
+"Giant Helm","head_giant-helm.png",1
+"Helm of Thorns","head_helm-of-thorns.png",1
+"Mask of the Child","head_mask-of-the-child.png",1
+"Mask of the Father","head_mask-of-the-father.png",1
+"Mask of the Mother","head_mask-of-the-mother.png",1
+"Sack","head_sack.png",1
+"Smough's Helm","head_smough-s-helm.png",1
+"Sunlight Maggot","head_sunlight-maggot.png",1
+"Symbol of Avarice","head_symbol-of-avarice.png",1
+"Armor of Thorns","chest_armor-of-thorns.png",1
+"Black Iron Armor","chest_black-iron-armor.png",1
+"Black Sorcerer Cloak","chest_black-sorcerer-cloak.png",1
+"Chain Armor","chest_chain-armor.png",1
+"Giant Armor","chest_giant-armor.png",1
+"Havel's Armor","chest_havel-s-armor.png",1
+"Knight Armor","chest_knight-armor.png",1
+"Smough's Armor","chest_smough-s-armor.png",1
+"Black Iron Gauntlets","hands_black-iron-gauntlets.png",1
+"Gauntlets of Thorns","hands_gauntlets-of-thorns.png",1
+"Giant Gauntlets","hands_giant-gauntlets.png",1
+"Havel's Gauntlets","hands_havel-s-gauntlets.png",1
+"Knight Gauntlets","hands_knight-gauntlets.png",1
+"Leather Gloves","hands_leather-gloves.png",1
+"Smough's Gauntlets","hands_smough-s-gauntlets.png",1
+"Black Iron Leggings","legs_black-iron-leggings.png",1
+"Chain Leggings","legs_chain-leggings.png",1
+"Giant Leggings","legs_giant-leggings.png",1
+"Havel's Leggings","legs_havel-s-leggings.png",1
+"Hollow Soldier Waistcloth","legs_hollow-soldier-waistcloth.png",1
+"Knight Leggings","legs_knight-leggings.png",1
+"Leggings of Thorns","legs_leggings-of-thorns.png",1
+"Smough's Leggings","legs_smough-s-leggings.png",1

@@ -1,3 +1,4 @@
+# common.txt
 "Ghost Blade","daggers_ghost-blade.png",1
 "Straight Sword Hilt","straightswords_straight-sword-hilt.png",1
 "Broken Straight Sword","straightswords_broken-straight-sword.png",1
@@ -94,6 +95,7 @@
 "Dark Mask","head_dark-mask.png",2
 "Dingy Hood","head_dingy-hood.png",2
 "Eastern Helm","head_eastern-helm.png",2
+"Elite Cleric Helm","head_elite-cleric-helm.png",2
 "Elite Knight Helm","head_elite-knight-helm.png",2
 "Gargoyle Helm","head_gargoyle-helm.png",2
 "Gold-Hemmed Black Hood","head_gold-hemmed-black-hood.png",2
@@ -275,33 +277,3 @@
 "Wanderer Boots","legs_wanderer-boots.png",2
 "Witch Skirt","legs_witch-skirt.png",2
 "Xanthous Waistcloth","legs_xanthous-waistcloth.png",2
-"Cat Covenant Ring","rings_cat-covenant-ring.png",2
-"Covenant Of Artorias","rings_covenant-of-artorias.png",2
-"Covetous Gold Serpent Ring","rings_covetous-gold-serpent-ring.png",2
-"Covetous Silver Serpent Ring","rings_covetous-silver-serpent-ring.png",2
-"Cursebite Ring","rings_cursebite-ring.png",2
-"Darkmoon Blade Covenant Ring","rings_darkmoon-blade-covenant-ring.png",2
-"Darkmoon Seance Ring","rings_darkmoon-seance-ring.png",2
-"Dusk Crown Ring","rings_dusk-crown-ring.png",2
-"East Wood Grain Ring","rings_east-wood-grain-ring.png",2
-"Flame Stoneplate Ring","rings_flame-stoneplate-ring.png",2
-"Havel's Ring","rings_havel-s-ring.png",2
-"Hawk Ring","rings_hawk-ring.png",2
-"Leo Ring","rings_leo-ring.png",2
-"Lingering Dragoncrest Ring","rings_lingering-dragoncrest-ring.png",2
-"Old Witch's Ring","rings_old-witch-s-ring.png",2
-"Orange Charred Ring","rings_orange-charred-ring.png",2
-"Poisonbite Ring","rings_poisonbite-ring.png",2
-"Rare Ring of Sacrifice","rings_rare-ring-of-sacrifice.png",2
-"Ring of Fog","rings_ring-of-fog.png",2
-"Ring of Sacrifice","rings_ring-of-sacrifice.png",2
-"Ring of the Evil Eye","rings_ring-of-the-evil-eye.png",2
-"Ring of the Sun's Firstborn","rings_ring-of-the-sun-s-firstborn.png",2
-"Ring of the Sun Princess","rings_ring-of-the-sun-princess.png",2
-"Rusted Iron Ring","rings_rusted-iron-ring.png",2
-"Slumbering Dragoncrest Ring","rings_slumbering-dragoncrest-ring.png",2
-"Speckled Stoneplate Ring","rings_speckled-stoneplate-ring.png",2
-"Spell Stoneplate Ring","rings_spell-stoneplate-ring.png",2
-"Thunder Stoneplate Ring","rings_thunder-stoneplate-ring.png",2
-"Tiny Being's Ring","rings_tiny-being-s-ring.png",2
-"White Seance Ring","rings_white-seance-ring.png",2

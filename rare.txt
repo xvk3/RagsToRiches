@@ -73,14 +73,14 @@
 "Balder Side Sword","straightswords_balder-side-sword.png",1
 "Rapier","thrusting-swords_rapier.png",1
 "Estoc","thrusting-swords_estoc.png",1
-"Bellowing Dragoncrest Ring","thrusting-swords_bellowing-dragoncrest-ring.png",1
-"Bloodbite Ring","thrusting-swords_bloodbite-ring.png",1
-"Blue Tearstone Ring","thrusting-swords_blue-tearstone-ring.png",1
-"Calamity Ring","thrusting-swords_calamity-ring.png",1
-"Cloranthy Ring","thrusting-swords_cloranthy-ring.png",1
-"Dark Wood Grain Ring","thrusting-swords_dark-wood-grain-ring.png",1
-"Hornet Ring","thrusting-swords_hornet-ring.png",1
-"Red Tearstone Ring","thrusting-swords_red-tearstone-ring.png",1
-"Ring of Favor and Protection","thrusting-swords_ring-of-favor-and-protection.png",1
-"Ring of Steel Protection","thrusting-swords_ring-of-steel-protection.png",1
-"Wolf Ring","thrusting-swords_wolf-ring.png",1
+"Bellowing Dragoncrest Ring","rings_bellowing-dragoncrest-ring.png",1
+"Bloodbite Ring","rings_bloodbite-ring.png",1
+"Blue Tearstone Ring","rings_blue-tearstone-ring.png",1
+"Calamity Ring","rings_calamity-ring.png",1
+"Cloranthy Ring","rings_cloranthy-ring.png",1
+"Dark Wood Grain Ring","rings_dark-wood-grain-ring.png",1
+"Hornet Ring","rings_hornet-ring.png",1
+"Red Tearstone Ring","rings_red-tearstone-ring.png",1
+"Ring of Favor and Protection","rings_ring-of-favor-and-protection.png",1
+"Ring of Steel Protection","rings_ring-of-steel-protection.png",1
+"Wolf Ring","rings_wolf-ring.png",1

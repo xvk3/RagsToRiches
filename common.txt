@@ -94,7 +94,6 @@
 "Dark Mask","head_dark-mask.png",2
 "Dingy Hood","head_dingy-hood.png",2
 "Eastern Helm","head_eastern-helm.png",2
-"Elite Cleric Helm","head_elite-cleric-helm.png",2
 "Elite Knight Helm","head_elite-knight-helm.png",2
 "Gargoyle Helm","head_gargoyle-helm.png",2
 "Gold-Hemmed Black Hood","head_gold-hemmed-black-hood.png",2
@@ -110,7 +109,6 @@
 "Hollow Warrior Helm","head_hollow-warrior-helm.png",2
 "Iron Helm","head_iron-helm.png",2
 "Knight Helm","head_knight-helm.png",2
-"Mage Smith Hat","head_mage-smith-hat.png",2
 "Maiden Hood","head_maiden-hood.png",2
 "Mask of the Sealer","head_mask-of-the-sealer.png",2
 "Mask of Velka","head_mask-of-velka.png",2

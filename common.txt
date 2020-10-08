@@ -1,2 +1,308 @@
-# common.txt
-"Green Blossom x10","/icons/green_blossom.png",1
+"Ghost Blade","daggers_ghost-blade.png",1
+"Straight Sword Hilt","straightswords_straight-sword-hilt.png",1
+"Broken Straight Sword","straightswords_broken-straight-sword.png",1
+"Drake Sword","straightswords_drake-sword.png",1
+"Bastard Sword","greatswords_bastard-sword.png",1
+"Obsidian Greatsword","greatswords_obsidian-greatsword.png",1
+"Quelaag's Furysword","curved-swords_quelaag-s-furysword.png",1
+"Hand Axe","axes_hand-axe.png",1
+"Reinforced Club","hammers_reinforced-club.png",1
+"Pike","spears_pike.png",1
+"Great Scythe","halberds_great-scythe.png",1
+"Dagger","daggers_dagger.png",2
+"Silver Knight Straight Sword","straightswords_silver-knight-straight-sword.png",2
+"Man-Serpent Greatsword","greatswords_man-serpent-greatsword.png",2
+"Greatsword of Artorias","greatswords_greatsword-of-artorias.png",2
+"Greatsword of Artorias (cursed)","greatswords_greatsword-of-artorias-cursed.png",2
+"Greatsword","ultra-greatswords_greatsword.png",2
+"Painting Guardian Sword","curved-swords_painting-guardian-sword.png",2
+"Ricard's Rapier","thrusting-swords_ricard-s-rapier.png",2
+"Velka's Rapier","thrusting-swords_velka-s-rapier.png",2
+"Greataxe","greataxes_greataxe.png",2
+"Dragonslayer Spear","spears_dragonslayer-spear.png",2
+"Black Knight Halberd","halberds_black-knight-halberd.png",2
+"Dragonslayer Greatbow","greatbows_dragonslayer-greatbow.png",2
+"Dragon Greatsword","ultra-greatswords_dragon-greatsword.png",3
+"Black Knight Greatsword","ultra-greatswords_black-knight-greatsword.png",3
+"Demon Great Machete","ultra-greatswords_demon-great-machete.png",3
+"Washing Pole","katanas_washing-pole.png",3
+"Server","curved-greatswords_server.png",3
+"Gravelord Sword","curved-greatswords_gravelord-sword.png",3
+"Mail Breaker","thrusting-swords_mail-breaker.png",3
+"Crescent Axe","axes_crescent-axe.png",3
+"Stone Greataxe","greataxes_stone-greataxe.png",3
+"Demon's Great Hammer","great-hammers_demon-s-great-hammer.png",3
+"Dragon Tooth","great-hammers_dragon-tooth.png",3
+"Smough's Hammer","great-hammers_smough-s-hammer.png",3
+"Dragon Bone Fist","fist_dragon-bone-fist.png",3
+"Winged Spear","spears_winged-spear.png",3
+"Partizan","spears_partizan.png",3
+"Titanite Catchpole","halberds_titanite-catch-pole.png",3
+"Scythe","halberds_scythe.png",3
+"Lucerne","halberds_lucerne.png",3
+"Shortbow","bows_short-bow.png",3
+"Longbow","bows_long-bow.png",3
+"Darkmoon Bow","bows_darkmoon-bow.png",3
+"Light Crossbow","crossbows_light-crossbow.png",3
+"Heavy Crossbow","crossbows_heavy-crossbow.png",3
+"Parrying Dagger","daggers_parrying-dagger.png",4
+"Priscilla's Dagger","daggers_priscilla-s-dagger.png",4
+"Broad sword","straightswords_broad-sword.png",4
+"Shortsword","straightswords_shortsword.png",4
+"Barbed Straight Sword","straightswords_barbed-straight-sword.png",4
+"Sunlight Straight Sword","straightswords_sunlight-straight-sword.png",4
+"Astora's Straight Sword","straightswords_astora-s-straight-sword.png",4
+"Dark Sword","straightswords_dark-sword.png",4
+"Crystal Straight Sword","straightswords_crystal-straight-sword.png",4
+"Black Knight Sword","greatswords_black-knight-sword.png",4
+"Crystal Greatsword","greatswords_crystal-greatsword.png",4
+"Jagged Ghost Blade","curved-swords_jagged-ghost-blade.png",4
+"Butcher Knife","axes_butcher-knife.png",4
+"Mace","hammers_mace.png",4
+"Morning Star","hammers_morning-star.png",4
+"Warpick","hammers_warpick.png",4
+"Pickaxe","hammers_pickaxe.png",4
+"Blacksmith Hammer","hammers_blacksmith-hammer.png",4
+"Hammer of Vamos","hammers_hammer-of-vamos.png",4
+"Grant","great-hammers_grant.png",4
+"Spear","spears_spear.png",4
+"Four-pronged Plough","spears_four-pronged-plow.png",4
+"Giant's Halberd","halberds_giant-s-halberd.png",4
+"Whip","whips_whip.png",4
+"Notched Whip","whips_notched-whip.png",4
+"Black Bow of Pharis","bows_black-bow-of-pharis.png",4
+"Sniper Crossbow","crossbows_sniper-crossbow.png",4
+"Gargoyle Tail Axe","axes_gargoyle-tail-axe.png",5
+"Battle Axe","axes_battle-axe.png",5
+"Club","hammers_club.png",5
+"Caestus","fist_caestus.png",5
+"Claws","fist_claw.png",5
+"Balder Helm","head_balder-helm.png",2
+"Big Hat","head_big-hat.png",2
+"Black Iron Helm","head_black-iron-helm.png",2
+"Black Knight Helm","head_black-knight-helm.png",2
+"Black Sorcerer Hat","head_black-sorcerer-hat.png",2
+"Bloated Head","head_bloated-head.png",2
+"Bloated Sorcerer Head","head_bloated-sorcerer-head.png",2
+"Brass Helm","head_brass-helm.png",2
+"Brigand Hood","head_brigand-hood.png",2
+"Catarina Helm","head_catarina-helm.png",2
+"Chain Helm","head_chain-helm.png",2
+"Cleric Helm","head_cleric-helm.png",2
+"Crown of the Great Lord","head_crown-of-the-great-lord.png",2
+"Crystalline Helm","head_crystalline-helm.png",2
+"Dark Mask","head_dark-mask.png",2
+"Dingy Hood","head_dingy-hood.png",2
+"Eastern Helm","head_eastern-helm.png",2
+"Elite Cleric Helm","head_elite-cleric-helm.png",2
+"Elite Knight Helm","head_elite-knight-helm.png",2
+"Gargoyle Helm","head_gargoyle-helm.png",2
+"Gold-Hemmed Black Hood","head_gold-hemmed-black-hood.png",2
+"Golem Helm","head_golem-helm.png",2
+"Gough's Helm","head_gough-s-helm.png",2
+"Guardian Helm","head_guardian-helm.png",2
+"Havel's Helm","head_havel-s-helm.png",2
+"Helm of Artorias","head_helm-of-artorias.png",2
+"Helm of Favor","head_helm-of-favor.png",2
+"Helm of The Wise","head_helm-of-the-wise.png",2
+"Hollow Soldier Helm","head_hollow-soldier-helm.png",2
+"Hollow Thief's Hood","head_hollow-thief-s-hood.png",2
+"Hollow Warrior Helm","head_hollow-warrior-helm.png",2
+"Iron Helm","head_iron-helm.png",2
+"Knight Helm","head_knight-helm.png",2
+"Mage Smith Hat","head_mage-smith-hat.png",2
+"Maiden Hood","head_maiden-hood.png",2
+"Mask of the Sealer","head_mask-of-the-sealer.png",2
+"Mask of Velka","head_mask-of-velka.png",2
+"Ornstein's Helm","head_ornstein-s-helm.png",2
+"Painting Guardian Hood","head_painting-guardian-hood.png",2
+"Paladin Helm","head_paladin-helm.png",2
+"Pharis's Hat","head_pharis-s-hat.png",2
+"Porcelain Mask","head_porcelain-mask.png",2
+"Priest's Hat","head_priest-s-hat.png",2
+"Royal Helm","head_royal-helm.png",2
+"Shadow Mask","head_shadow-mask.png",2
+"Silver Knight Helm","head_silver-knight-helm.png",2
+"Six-Eyed Helm of the Channelers","head_six-eyed-helm-of-the-channelers.png",2
+"Snickering Top Hat","head_snickering-top-hat.png",2
+"Sorcerer Hat","head_sorcerer-hat.png",2
+"Standard Helm","head_standard-helm.png",2
+"Steel Helm","head_steel-helm.png",2
+"Stone Helm","head_stone-helm.png",2
+"Tattered Cloth Hood","head_tattered-cloth-hood.png",2
+"Thief Mask","head_thief-mask.png",2
+"Wanderer Hood","head_wanderer-hood.png",2
+"Witch Hat","head_witch-hat.png",2
+"Xanthous Crown","head_xanthous-crown.png",2
+"Antiquated Dress","chest_antiquated-dress.png",2
+"Armor of Artorias","chest_armor-of-artorias.png",2
+"Armor of the Glorious","chest_armor-of-the-glorious.png",2
+"Armor of the Sun","chest_armor-of-the-sun.png",2
+"Balder Armor","chest_balder-armor.png",2
+"Black Cleric Robe","chest_black-cleric-robe.png",2
+"Black Knight Armor","chest_black-knight-armor.png",2
+"Black Leather Armor","chest_black-leather-armor.png",2
+"Brass Armor","chest_brass-armor.png",2
+"Brigand Armor","chest_brigand-armor.png",2
+"Catarina Armor","chest_catarina-armor.png",2
+"Chester's Long Coat","chest_chester-s-long-coat.png",2
+"Cleric Armor","chest_cleric-armor.png",2
+"Crimson Robe","chest_crimson-robe.png",2
+"Crystalline Armor","chest_crystalline-armor.png",2
+"Dark Armor","chest_dark-armor.png",2
+"Dingy Robe","chest_dingy-robe.png",2
+"Eastern Armor","chest_eastern-armor.png",2
+"Elite Knight Armor","chest_elite-knight-armor.png",2
+"Embraced Armor of Favor","chest_embraced-armor-of-favor.png",2
+"Gold-Hemmed Black Cloak","chest_gold-hemmed-black-cloak.png",2
+"Golem Armor","chest_golem-armor.png",2
+"Gough's Armor","chest_gough-s-armor.png",2
+"Guardian Armor","chest_guardian-armor.png",2
+"Hard Leather Armor","chest_hard-leather-armor.png",2
+"Hollow Soldier Armor","chest_hollow-soldier-armor.png",2
+"Hollow Thief's Leather Armor","chest_hollow-thief-s-leather-armor.png",2
+"Hollow Warrior Armor","chest_hollow-warrior-armor.png",2
+"Holy Robe","chest_holy-robe.png",2
+"Leather Armor","chest_leather-armor.png",2
+"Lord's Blade Robe","chest_lord-s-blade-robe.png",2
+"Maiden Robe","chest_maiden-robe.png",2
+"Moonlight Robe","chest_moonlight-robe.png",2
+"Ornstein's Armor","chest_ornstein-s-armor.png",2
+"Painting Guardian Robe","chest_painting-guardian-robe.png",2
+"Paladin Armor","chest_paladin-armor.png",2
+"Robe of the Channelers","chest_robe-of-the-channelers.png",2
+"Robe of the Great Lord","chest_robe-of-the-great-lord.png",2
+"Sage Robe","chest_sage-robe.png",2
+"Shadow Garb","chest_shadow-garb.png",2
+"Silver Knight Armor","chest_silver-knight-armor.png",2
+"Sorcerer Cloak","chest_sorcerer-cloak.png",2
+"Steel Armor","chest_steel-armor.png",2
+"Stone Armor","chest_stone-armor.png",2
+"Tattered Cloth Robe","chest_tattered-cloth-robe.png",2
+"Wanderer Coat","chest_wanderer-coat.png",2
+"Witch Cloak","chest_witch-cloak.png",2
+"Xanthous Overcoat","chest_xanthous-overcoat.png",2
+"Antiquated Gloves","hands_antiquated-gloves.png",2
+"Balder Gauntlets","hands_balder-gauntlets.png",2
+"Black Knight Gauntlets","hands_black-knight-gauntlets.png",2
+"Black Leather Gloves","hands_black-leather-gloves.png",2
+"Black Manchette","hands_black-manchette.png",2
+"Black Sorcerer Gauntlets","hands_black-sorcerer-gauntlets.png",2
+"Bracelet of the Great Lord","hands_bracelet-of-the-great-lord.png",2
+"Brass Gauntlets","hands_brass-gauntlets.png",2
+"Brigand Gauntlets","hands_brigand-gauntlets.png",2
+"Catarina Gauntlets","hands_catarina-gauntlets.png",2
+"Chester's Gloves","hands_chester-s-gloves.png",2
+"Cleric Gauntlets","hands_cleric-gauntlets.png",2
+"Crimson Gloves","hands_crimson-gloves.png",2
+"Crystalline Gauntlets","hands_crystalline-gauntlets.png",2
+"Dark Gauntlets","hands_dark-gauntlets.png",2
+"Dingy Gloves","hands_dingy-gloves.png",2
+"Eastern Gauntlets","hands_eastern-gauntlets.png",2
+"Elite Knight Gauntlets","hands_elite-knight-gauntlets.png",2
+"Gauntlets of Artorias","hands_gauntlets-of-artorias.png",2
+"Gauntlets of Favor","hands_gauntlets-of-favor.png",2
+"Gauntlets of the Channelers","hands_gauntlets-of-the-channelers.png",2
+"Gauntlets of the Vanquisher","hands_gauntlets-of-the-vanquisher.png",2
+"Gold-Hemmed Black Gloves","hands_gold-hemmed-black-gloves.png",2
+"Golem Gauntlets","hands_golem-gauntlets.png",2
+"Gough's Gauntlets","hands_gough-s-gauntlets.png",2
+"Guardian Gauntlets","hands_guardian-gauntlets.png",2
+"Hard Leather Gauntlets","hands_hard-leather-gauntlets.png",2
+"Iron Bracelet","hands_iron-bracelet.png",2
+"Leather Gauntlets","hands_leather-gauntlets.png",2
+"Lord's Blade Gloves","hands_lord-s-blade-gloves.png",2
+"Maiden Gloves","hands_maiden-gloves.png",2
+"Moonlight Gloves","hands_moonlight-gloves.png",2
+"Ornstein's Gauntlets","hands_ornstein-s-gauntlets.png",2
+"Painting Guardian Gloves","hands_painting-guardian-gloves.png",2
+"Paladin Gauntlets","hands_paladin-gauntlets.png",2
+"Shadow Gauntlets","hands_shadow-gauntlets.png",2
+"Silver Knight Gauntlets","hands_silver-knight-gauntlets.png",2
+"Sorcerer Gauntlets","hands_sorcerer-gauntlets.png",2
+"Steel Gauntlets","hands_steel-gauntlets.png",2
+"Stone Gauntlets","hands_stone-gauntlets.png",2
+"Tattered Cloth Manchette","hands_tattered-cloth-manchette.png",2
+"Traveling Gloves","hands_traveling-gloves.png",2
+"Traveling Gloves","hands_traveling-gloves.png",2
+"Wanderer Manchette","hands_wanderer-manchette.png",2
+"Witch Gloves","hands_witch-gloves.png",2
+"Xanthous Gloves","hands_xanthous-gloves.png",2
+"Anklet of the Great Lord","legs_anklet-of-the-great-lord.png",2
+"Antiquated Skirt","legs_antiquated-skirt.png",2
+"Balder Leggings","legs_balder-leggings.png",2
+"Black Knight Leggings","legs_black-knight-leggings.png",2
+"Black Leather Boots","legs_black-leather-boots.png",2
+"Black Sorcerer Boots","legs_black-sorcerer-boots.png",2
+"Black Tights","legs_black-tights.png",2
+"Blood-Stained Skirt","legs_blood-stained-skirt.png",2
+"Boots of the Explorer","legs_boots-of-the-explorer.png",2
+"Brass Leggings","legs_brass-leggings.png",2
+"Brigand Trousers","legs_brigand-trousers.png",2
+"Catarina Leggings","legs_catarina-leggings.png",2
+"Chester's Trousers","legs_chester-s-trousers.png",2
+"Cleric Leggings","legs_cleric-leggings.png",2
+"Crimson Waistcloth","legs_crimson-waistcloth.png",2
+"Crystalline Leggings","legs_crystalline-leggings.png",2
+"Dark Leggings","legs_dark-leggings.png",2
+"Eastern Leggings","legs_eastern-leggings.png",2
+"Elite Knight Leggings","legs_elite-knight-leggings.png",2
+"Gold-Hemmed Black Skirt","legs_gold-hemmed-black-skirt.png",2
+"Golem Leggings","legs_golem-leggings.png",2
+"Gough's Leggings","legs_gough-s-leggings.png",2
+"Guardian Leggings","legs_guardian-leggings.png",2
+"Hard Leather Boots","legs_hard-leather-boots.png",2
+"Heavy Boots","legs_heavy-boots.png",2
+"Hollow Thief's Tights","legs_hollow-thief-s-tights.png",2
+"Hollow Warrior Waistcloth","legs_hollow-warrior-waistcloth.png",2
+"Holy Trousers","legs_holy-trousers.png",2
+"Iron Leggings","legs_iron-leggings.png",2
+"Leather Boots","legs_leather-boots.png",2
+"Leggings of Artorias","legs_leggings-of-artorias.png",2
+"Leggings of Favor","legs_leggings-of-favor.png",2
+"Lord's Blade Waistcloth","legs_lord-s-blade-waistcloth.png",2
+"Maiden Skirt","legs_maiden-skirt.png",2
+"Moonlight Waistcloth","legs_moonlight-waistcloth.png",2
+"Ornstein's Leggings","legs_ornstein-s-leggings.png",2
+"Painting Guardian Waistcloth","legs_painting-guardian-waistcloth.png",2
+"Paladin Leggings","legs_paladin-leggings.png",2
+"Shadow Leggings","legs_shadow-leggings.png",2
+"Silver Knight Leggings","legs_silver-knight-leggings.png",2
+"Sorcerer Boots","legs_sorcerer-boots.png",2
+"Steel Leggings","legs_steel-leggings.png",2
+"Stone Leggings","legs_stone-leggings.png",2
+"Traveling Boots","legs_traveling-boots.png",2
+"Waistcloth of the Channelers","legs_waistcloth-of-the-channelers.png",2
+"Wanderer Boots","legs_wanderer-boots.png",2
+"Witch Skirt","legs_witch-skirt.png",2
+"Xanthous Waistcloth","legs_xanthous-waistcloth.png",2
+"Cat Covenant Ring","rings_cat-covenant-ring.png",2
+"Covenant Of Artorias","rings_covenant-of-artorias.png",2
+"Covetous Gold Serpent Ring","rings_covetous-gold-serpent-ring.png",2
+"Covetous Silver Serpent Ring","rings_covetous-silver-serpent-ring.png",2
+"Cursebite Ring","rings_cursebite-ring.png",2
+"Darkmoon Blade Covenant Ring","rings_darkmoon-blade-covenant-ring.png",2
+"Darkmoon Seance Ring","rings_darkmoon-seance-ring.png",2
+"Dusk Crown Ring","rings_dusk-crown-ring.png",2
+"East Wood Grain Ring","rings_east-wood-grain-ring.png",2
+"Flame Stoneplate Ring","rings_flame-stoneplate-ring.png",2
+"Havel's Ring","rings_havel-s-ring.png",2
+"Hawk Ring","rings_hawk-ring.png",2
+"Leo Ring","rings_leo-ring.png",2
+"Lingering Dragoncrest Ring","rings_lingering-dragoncrest-ring.png",2
+"Old Witch's Ring","rings_old-witch-s-ring.png",2
+"Orange Charred Ring","rings_orange-charred-ring.png",2
+"Poisonbite Ring","rings_poisonbite-ring.png",2
+"Rare Ring of Sacrifice","rings_rare-ring-of-sacrifice.png",2
+"Ring of Fog","rings_ring-of-fog.png",2
+"Ring of Sacrifice","rings_ring-of-sacrifice.png",2
+"Ring of the Evil Eye","rings_ring-of-the-evil-eye.png",2
+"Ring of the Sun's Firstborn","rings_ring-of-the-sun-s-firstborn.png",2
+"Ring of the Sun Princess","rings_ring-of-the-sun-princess.png",2
+"Rusted Iron Ring","rings_rusted-iron-ring.png",2
+"Slumbering Dragoncrest Ring","rings_slumbering-dragoncrest-ring.png",2
+"Speckled Stoneplate Ring","rings_speckled-stoneplate-ring.png",2
+"Spell Stoneplate Ring","rings_spell-stoneplate-ring.png",2
+"Thunder Stoneplate Ring","rings_thunder-stoneplate-ring.png",2
+"Tiny Being's Ring","rings_tiny-being-s-ring.png",2
+"White Seance Ring","rings_white-seance-ring.png",2

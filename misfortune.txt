@@ -5,5 +5,11 @@
 # The probability multiplier increases the odds of the result being selected
 #
 #
-"Wear Calamity Ring for 3 Fights","/icons/calamity_ring.png",2
-
+"Wear Calamity Ring for 3 Fights","rings_calamity-ring.png",1
+"Left Ring Broken","null.png",1
+"Right Ring Broken","null.png",1
+"Head Armour Broken","null.png",1
+"Invert Camera Controls","null.png",1
+"Must Send Hatemail (If Possible)","null.png",1
+"Fight Naked for Next Invasion","null.png",1
+"Roll Misfortune Twice More","null.png",1

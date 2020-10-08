@@ -1,0 +1,55 @@
+<html>
+  <head>
+  <title>Rags to Riches - Dark Souls PvP Gamemode</title>
+  <script src="./js/jquery.min.js"></script>
+  
+  </head>
+  <body>
+  <table>
+    <tr><th>Misfortune</th><th>Common</th><th>Common</th><th>Rare</th></tr>
+    <tr><td id=misfortune>misfortune</td><td id=common1>common1</td><td id=common2>common2</td><td id=rare>rare</td></tr>
+  </table>
+  <p id="test">Test Click</p>
+
+  <script>
+
+    // handle reward refresh
+    document.getElementById("misfortune").onclick = function() {generateMisfortune()};
+    document.getElementById("common1").onclick = function() {generateCommon("common1")};
+    document.getElementById("common2").onclick = function() {generateCommon("common2")};
+    document.getElementById("rare").onclick = function() {generateRare()};
+
+    // functions
+    function generateMisfortune() {
+      document.getElementById("misfortune").innerHTML = misfortunes[Math.floor(Math.random() * misfortunes.length)];
+    }
+    function generateCommon(id) {
+      document.getElementById(id).innerHTML = commons[Math.floor(Math.random() * commons.length)];
+    }
+    function generateRare() {
+      document.getElementById("rare").innerHTML = rares[Math.floor(Math.random() * rares.length)][0];
+    } 
+
+    var misfortunes = [
+      ["Left Ring Broken",false],
+      ["Right Ring Broken",false],
+      ["Wear Calamity Ring for 3 invasions","./icons/calamity-ring.png"]
+    ];
+
+    var commons = [
+      ["Uchigatana","./icons/katanas_uchigatana.png"],
+      ["Hand Axe","./icons/axes_hand-axe.png"]
+    ];
+
+    var rares = [
+      ["Murakumo","./icons/curved_swords_murakuno.png"],
+      ["Chaos Blade","./icons/katanas_chaos-blade.png"]
+    ];
+
+  </script>
+
+
+
+  </body>
+
+</html>

@@ -59,28 +59,29 @@ table tr.active {
     <tr><td id=misfortune>misfortune</td><td id=common1>common1</td><td id=common2>common2</td><td id=rare>rare</td></tr>
     <tr><td><img id=imisfortune src="./icons/null.png" width="102" height="120"></td><td><img id=icommon1 src="./icons/null.png" width="102" height="120"></td><td><img id=icommon2 src="./icons/null.png" width="102" height="120"></td><td><img id=irare src="./icons/null.png" width="102" height="120"></td></tr>
   </table>
-  <p id="test">Invasion Won!</p>
-  <p id="lost">Invasion Lost :(</p>
   <br>
-  <p id="wins">0</p>
-  <p id="losses">0</p>
+  <button type="button" id="test">Invasion Won!</button>
+  <button type="button" id="lost">Invasion Lost :(</button>
+  <br>
+  <p>Wins: </p><p id="wins">0</p>
+  <p>Losses:</p><p id="losses">0</p>
 
   <script>
 
     // handle test
     document.getElementById("test").onclick = function() {
       generateResults()
-      var val = getElementById("wins").innerHTML;
+      var val = document.getElementById("wins").innerHTML;
       val++;
-      getElementById("wins").innerHTML = val;
+      document.getElementById("wins").innerHTML = val;
     };
 
     document.getElementById("lost").onclick = function() {
       resetAll();
       generateMisfortune();
-      var val = getElementById("losses").innerHTML;
+      var val = document.getElementById("losses").innerHTML;
       val++;
-      getElementById("losses").innerHTML = val;
+      document.getElementById("losses").innerHTML = val;
     };
 
     // handle reward refresh

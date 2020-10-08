@@ -1,0 +1,9 @@
+# misfortune.txt
+# Each uncommented row defines a possible outcome from spinning the misfortune wheel.
+# "Wear Calamity Rings for 3 Fighs", "/icons/calamity_ring.png", 2
+# ^^^^^^^ Text to appear ^^^^^^^^^^  ^^^^^ Path to image ^^^^^^  ^ Probability Multiplier
+# The probability multiplier increases the odds of the result being selected
+#
+#
+"Wear Calamity Ring for 3 Fights","/icons/calamity_ring.png",2
+

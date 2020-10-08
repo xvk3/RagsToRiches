@@ -1,0 +1,2 @@
+# common.txt
+"Green Blossom x10","/icons/green_blossom.png",1

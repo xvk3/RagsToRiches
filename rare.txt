@@ -1,0 +1,2 @@
+# rare.txt
+"Chaos Blade","/icons/chaos_blade.png",1

@@ -28,7 +28,7 @@
 "Uchigatana","katanas_uchigatana.png",2
 "Iaito","katanas_iaito.png",2
 "Moonlight Butterfly Horn","spears_moonlight-butterfly-horn.png",2
-"Symbol of Avarice","chest_symbol-of-avarice.png",1
+"Symbol of Avarice","head_symbol-of-avarice.png",1
 "Armor of Thorns","chest_armor-of-thorns.png",1
 "Black Iron Armor","chest_black-iron-armor.png",1
 "Black Sorcerer Cloak","chest_black-sorcerer-cloak.png",1

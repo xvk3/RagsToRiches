@@ -11,7 +11,6 @@
   position: relative;
   font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
   border-collapse: collapse;
-  width: 100%;
 }
 
 #tbl th{
@@ -27,7 +26,6 @@
 #tbl input{
   position: absolute;
   left:0; top:0; bottom:0; right:0;
-  width: 100%;
   height: 100%;
   margin-right: 12px;
   margin-bottom: 12px;
@@ -40,6 +38,8 @@
 
 #tbl td {
   border: 1px solid;
+  width: 150px;
+  height: 50px;
 }
 
 #tbl tr:hover {
@@ -57,7 +57,7 @@ table tr.active {
   <table id="tbl">
     <tr><th>Misfortune</th><th>Common</th><th>Common</th><th>Rare</th></tr>
     <tr><td id=misfortune>misfortune</td><td id=common1>common1</td><td id=common2>common2</td><td id=rare>rare</td></tr>
-    <tr><td><img id=imisfortune src="./icons/null.png" width="102" height="120"></td><td><img id=icommon1 src="./icons/null.png" width="102" height="120"></td><td><img id=icommon2 src="./icons/null.png" width="102" height="120"></td><td><img id=irare src="./icons/null.png" width="102" height="120"></td></tr>
+    <tr><td id=misfortune2><img id=imisfortune src="./icons/null.png" width="102" height="120"></td><td id=common12><img id=icommon1 src="./icons/null.png" width="102" height="120"></td><td id=common22><img id=icommon2 src="./icons/null.png" width="102" height="120"></td><td id=rare2><img id=irare src="./icons/null.png" width="102" height="120"></td></tr>
   </table>
   <br>
   <button type="button" id="test">Invasion Won!</button>
@@ -89,6 +89,12 @@ table tr.active {
     document.getElementById("common1").onclick = function() {generateCommon("common1")};
     document.getElementById("common2").onclick = function() {generateCommon("common2")};
     document.getElementById("rare").onclick = function() {generateRare()};
+
+    // handle reward refresh
+    document.getElementById("misfortune2").onclick = function() {generateMisfortune()};
+    document.getElementById("common12").onclick = function() {generateCommon("common1")};
+    document.getElementById("common22").onclick = function() {generateCommon("common2")};
+    document.getElementById("rare2").onclick = function() {generateRare()};
 
     // handle reward refresh
     document.getElementById("imisfortune").onclick = function() {generateMisfortune()};
@@ -140,12 +146,17 @@ table tr.active {
     }
 
     function generateResults()  {
-      var num = Math.floor(Math.random() * 100);
       resetAll();
-      if(num > 90 || num < 05)  {generateMisfortune();}
-      if(num > 70 && num < 90)  {generateRare();}
-      if(num > 50 && num < 80)  {generateCommon("common1");}
-      if(num < 30 || num > 70)  {generateCommon("common2");}
+      var num = Math.floor(Math.random() * 100);
+      if(num >= 95)             {generateMisfortune();}
+      num = Math.floor(Math.random() * 100);
+      if(num >= 10)             {
+        generateCommon("common1");
+        num = Math.floor(Math.random() * 100);
+        if(num >= 50)           {generateCommon("common2");}
+      }
+      num = Math.floor(Math.random() * 100);
+      if(num >= 86)             {generateRare();}
     }
 
     /*
@@ -181,13 +192,12 @@ table tr.active {
       if($line[0] != '#') {
         $line_arr = explode(",", $line);
         for($i = 0; $i < (int)$line_arr[2]; $i++)  {
-          echo "      [" . $line_arr[0] . ",\"./icons/" . substr($line_arr[1],1) . "],\r\n";
+          echo "      [" . $line_arr[0] . ",\"icons/" . substr($line_arr[1],1) . "],\r\n";  
         }
       }
     }
   }
 ?>
-      ["You lucked out!","./icons/gold-coin.png"]
     ];
 
     var commons = [
@@ -198,13 +208,12 @@ table tr.active {
       if($line[0] != '#') {
         $line_arr = explode(",", $line);
         for($i = 0; $i < (int)$line_arr[2]; $i++)  {
-          echo "      [" . $line_arr[0] . ",\"icons/" . substr($line_arr[1],1) . "],\r\n";
+          echo "      [" . $line_arr[0] . ",\"icons/" . substr($line_arr[1],1) . "],\r\n";  
         }
       }
     }
   }
 ?>
-      ["Lloyds Talisman x5","./icons/lloyds-talisman.png"]
     ];
 
 
@@ -216,19 +225,14 @@ table tr.active {
       if($line[0] != '#') {
         $line_arr = explode(",", $line);
         for($i = 0; $i < (int)$line_arr[2]; $i++)  {
-          echo "      [" . $line_arr[0] . ",\"icons/" . substr($line_arr[1],1) . "],\r\n";
+          echo "      [" . $line_arr[0] . ",\"icons/" . substr($line_arr[1],1) . "],\r\n";  
         }
       }
     }
   }
 ?>
-      ["Knight Armour","./icons/chest_knight-armour.png"]
     ];
 
   </script>
-
-
-
   </body>
-
 </html>

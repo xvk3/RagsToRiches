@@ -9,7 +9,17 @@
 "Left Ring Broken","null.png",1
 "Right Ring Broken","null.png",1
 "Head Armour Broken","null.png",1
+"Chest Armour Broken","null.png",1
+"Hand Armour Broken","null.png",1
+"Leg Armour Broken","null.png",1
+"Main Hand (Left Slot) Weapon Broken","null.png",1
+"Main Hand (Right Slot) Weapon Broken","null.png",1
+"Offhand (Left Slot) Weapon Broken","null.png",1
+"Offhand (Right Slot) Weapon Broken","null.png",1
 "Invert Camera Controls","null.png",1
 "Must Send Hatemail (If Possible)","null.png",1
 "Fight Naked for Next Invasion","null.png",1
 "Roll Misfortune Twice More","null.png",1
+"Lucked Out!","gold-coin.png",1
+"Lucked Out!","silver-coin.png",1
+"Lucked Out!","copper-coin",1

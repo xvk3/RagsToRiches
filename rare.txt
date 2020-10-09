@@ -84,3 +84,4 @@
 "Ring of Favor and Protection","rings_ring-of-favor-and-protection.png",1
 "Ring of Steel Protection","rings_ring-of-steel-protection.png",1
 "Wolf Ring","rings_wolf-ring.png",1
+"Firekeeper Soul","firekeeper-soul.png",3
